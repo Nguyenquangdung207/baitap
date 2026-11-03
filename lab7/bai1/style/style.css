@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 11pt;
+    margin: 20px 40px;
+    background-color: #f9f9f9;
+    color: #222;
+}
+
+h3 {
+    color: navy;
+}
+
+div {
+    padding: 3px 5px;
+    font: normal 13pt Arial;
+}
+
+table {
+    background-color: #eaeaea;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 700px;
+    margin-top: 10px;
+}
+
+td, th {
+    font: normal 11pt Arial;
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+}
+
+.hd {
+    background-color: navy;
+    color: white;
+    font-weight: bold;
+}
+
+select {
+    font: normal 11pt Arial;
+    padding: 4px 8px;
+    margin-left: 8px;
+}
+
+hr {
+    margin: 10px 0;
+    border: none;
+    border-top: 1px solid #ccc;
+}
